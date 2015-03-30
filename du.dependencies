@@ -1,19 +1,16 @@
 [
   {
-    "remote":      "du",
-    "repository":  "android_device_htc_msm8960-common",
+    "repository":  "DirtyUnicorns/android_device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common",
     "branch":      "lollipop-caf"
   },
   {
-    "remote":      "du",
-    "repository":  "android_kernel_htc_t6",
+    "repository":  "DirtyUnicorns/android_kernel_htc_t6",
     "target_path": "kernel/htc/t6",
     "branch":      "lollipop-caf"
   },
   {
-    "remote":      "du",
-    "repository":  "android_vendor_htc",
+    "repository":  "DirtyUnicorns/android_vendor_htc",
     "target_path": "vendor/htc",
     "branch":      "lollipop-caf"
   }
