@@ -38,7 +38,7 @@ BOARD_KERNEL_CMDLINE := console=ttyHSL0,115200,n8 androidboot.hardware=qcom user
 BOARD_KERNEL_CMDLINE += vmalloc=340M
 BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x01800000
 TARGET_KERNEL_CONFIG := t6_defconfig
-TARGET_KERNEL_SOURCE := kernel/htc/t6
+TARGET_KERNEL_SOURCE := kernel/htc/msm8960
 
 # Audio
 BOARD_USES_FLUENCE_INCALL := true  # use DMIC in call only
